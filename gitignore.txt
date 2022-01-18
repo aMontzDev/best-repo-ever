@@ -1,3 +1,0 @@
-nova documentacao.txt
-triggers.txt
-challenge.png
